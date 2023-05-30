@@ -50,7 +50,7 @@
                         <div class="over-item txt-left unique-style" style="background:#91CA1C">
                             <i class="fa fa-video-camera over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>LP BURN</h3>
+                            <h3>LP LOCKED</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
