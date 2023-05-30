@@ -13,7 +13,7 @@
                 <h3 style="color:white">Capoo Coin</h3>
                 <p style="color:white">Invest in $CAPOO, the most hype and safu project on BSC.</p>
                 <a href="https://t.me/CapooCoinBsc" style="background:#91CA1C">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0x111F34acD2a9930F9b4FE6893B5d753C586864cA" style="background:#91CA1C">BUY $CAPOO</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0x" style="background:#91CA1C">BUY $CAPOO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
@@ -141,13 +141,13 @@
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="75">
                                 </div>
-                                <h5 style="color:white">7</h5>
-                                <span style="color:white">7 BNB Initial LP</span>
+                                <h5 style="color:white">2</h5>
+                                <span style="color:white">2 BNB Initial LP</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
                                 <div class="chart" data-percent="65">
                                 </div>
-                                <h5 style="color:white">0%</h5>
+                                <h5 style="color:white">5%</h5>
                                 <span style="color:white">Tax</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
