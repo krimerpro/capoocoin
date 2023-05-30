@@ -40,7 +40,7 @@
                         <div class="over-item txt-right unique-style3" style="background:#91CA1C">
                             <i class="fa fa-book over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>0% TAXES</h3>
+                            <h3>5% TAXES</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
