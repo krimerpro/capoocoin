@@ -12,8 +12,8 @@
             <div class="col-lg-7 banner-txt">
                 <h3 style="color:white">Capoo Coin</h3>
                 <p style="color:white">Invest in $CAPOO, the most hype and safu project on BSC.</p>
-                <a href="https://t.me/CapooCoinBsc">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0x">BUY $CAPOO</a>
+                <a href="https://t.me/CapooCoinBsc" style="background:#91CA1C">Join Us</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0x" style="background:#91CA1C">BUY $CAPOO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
@@ -37,7 +37,7 @@
             <div class="col-lg-9 col-sm-12 m-auto">
                 <div class="row">
                     <div class="col-lg-6 col-sm-6">
-                        <div class="over-item txt-right unique-style3">
+                        <div class="over-item txt-right unique-style3" style="background:#91CA1C">
                             <i class="fa fa-book over-i" aria-hidden="true"></i>
                             <div class="break"></div>
                             <h3>0% TAXES</h3>
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="over-item txt-left unique-style">
+                        <div class="over-item txt-left unique-style" style="background:#91CA1C">
                             <i class="fa fa-video-camera over-i" aria-hidden="true"></i>
                             <div class="break"></div>
                             <h3>LP BURN</h3>
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="over-item txt-right unique-style2">
+                        <div class="over-item txt-right unique-style2" style="background:#91CA1C">
                             <i class="fa fa-star over-i" aria-hidden="true"></i>
                             <div class="break"></div>
                             <h3>OWNERSHIP RENOUNCED</h3>
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="over-item txt-left unique-style4">
+                        <div class="over-item txt-left unique-style4" style="background:#91CA1C">
                             <i class="fa fa-lock over-i" aria-hidden="true"></i>
                             <div class="break"></div>
                             <h3>MOONSHOT PROJECT</h3>
@@ -106,7 +106,7 @@
                             <h3>Capoo Coin</h3>
                             <p style="color:white">Bugcat Capoo (貓貓蟲咖波 Māo māo chóng kā bō), sometimes abbreviated to Capoo, is a cartoon character resembling a chubby blue cat with six legs. He is the namesake and main subject of a webcomic strip on Facebook and Instagram, cartoon clips on YouTube, and stickers on LINE and other social media. He was created by the Taiwanese artist Yara (亞拉 Yala) in 2014.</p>
                             <p class="separate-p tab-hider" style="color:white">Capoo is described as "a little monster like a cat and like a bug, both violent and cute, who loves to eat meat".[1] The comic depicts him as a cute house pet with an endless hunger for meat and a disdain for vegetables, living together with his owner Lala and the seemingly immortal Dogdog—a large dog possessing uncanny skills in every field—in Lala's house. Much of the comic revolves around everyday situations which explode into absurdity, and often end with Capoo either eating whatever frustrates him, or being comically punished by Lala for his antics.</p>
-                            <a href="#">Read More</a>
+                            <a href="#" style="background:#91CA1C">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 m-auto">
-                <div class="sub-main">
+                <div class="sub-main" style="background:#91CA1C">
                     <div class="row">
                         <div class="col-lg-8 col-md-7">
                             <h3>Join Our Official Telegram Group</h3>
