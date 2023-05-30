@@ -7,7 +7,7 @@
                     <a class="f-logo" href="#banner" style="color:#91CA1C"><b>CAPOO COIN</b></a>
                     <div class="footer-social">
                         <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/CapooCoinBsc"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
