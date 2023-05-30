@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-4 col-sm-11">
                 <div class="footer-logo">
-                    <a class="f-logo" href="#banner"><b>ABRAHAM SIMPSON COIN</b></a>
+                    <a class="f-logo" href="#banner"><b>CAPOO COIN</b></a>
                     <div class="footer-social">
                         <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="fop-btm text-center">
-                    <h2>Copyright &copy; 2023. All rights reserved by <a href="#">ABRAHAM SIMPSON COIN</a> Team</h2>
+                    <h2>Copyright &copy; 2023. All rights reserved by <a href="#">CAPOO COIN</a> Team</h2>
                 </div>
             </div>
         </div>

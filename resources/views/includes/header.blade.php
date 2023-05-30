@@ -12,7 +12,7 @@
 <!-- HEADER AREA START -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <div class="container">
-        <a class="navbar-brand" href="#">Abraham Simpson Coin<b>.</b></a>
+        <a class="navbar-brand" href="#">CAPOO COIN</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars" aria-hidden="true"></i>
         </button>
@@ -28,7 +28,7 @@
                     <a class="nav-link" href="#tokenomics">Tokenomics</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link bor" href="#" data-toggle="modal" data-target="#exampleModal">Connect Wallet</a>
+                    <a class="nav-link bor" href="https://poocoin.app/tokens/0x" data-toggle="modal" data-target="#exampleModal">CHART</a>
                 </li>
             </ul>
         </div>

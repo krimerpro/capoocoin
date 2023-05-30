@@ -10,10 +10,10 @@
     <div class="container zindex">
         <div class="row">
             <div class="col-lg-7 banner-txt">
-                <h3>Abraham Simpson Coin</h3>
-                <p>Invest in $Abraham, the most hype and safe play memecoin inspired by Abraham Simpson.</p>
-                <a href="https://t.me/AbrahamSimpsonCoin">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0xD00f259224636e0cAa1c8a1c530e5A4673500E58">Buy $Abraham</a>
+                <h3 style="color:white">Capoo Coin</h3>
+                <p style="color:white">Invest in $CAPOO, the most hype and safu project on BSC.</p>
+                <a href="https://t.me/CapooCoinBsc">Join Us</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0x">BUY $CAPOO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
@@ -30,7 +30,7 @@
     <div class="container">
         <div class="row header-text text-center">
             <div class="col-lg-12">
-                <h3>FEA<span>T</span>URE</h3>
+                <h3><span>F</span>E<span>A</span>T<span>U</span>R<span>E</span></h3>
             </div>
         </div>
         <div class="row over-pa">
@@ -40,7 +40,7 @@
                         <div class="over-item txt-right unique-style3">
                             <i class="fa fa-book over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>Creative Idea</h3>
+                            <h3>0% TAXES</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
@@ -50,7 +50,7 @@
                         <div class="over-item txt-left unique-style">
                             <i class="fa fa-video-camera over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>Strong Community</h3>
+                            <h3>LP BURN</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
@@ -60,7 +60,7 @@
                         <div class="over-item txt-right unique-style2">
                             <i class="fa fa-star over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>Hype Name</h3>
+                            <h3>OWNERSHIP RENOUNCED</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
@@ -70,7 +70,7 @@
                         <div class="over-item txt-left unique-style4">
                             <i class="fa fa-lock over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>Highly Secured</h3>
+                            <h3>MOONSHOT PROJECT</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
@@ -88,7 +88,7 @@
     <div class="container">
         <div class="row header-text text-center about-header">
             <div class="col-lg-12">
-                <h3>AB<span>O</span>UT</h3>
+                <h3><span>A</span>B<span>O</span>U<span>T</span></h3>
             </div>
         </div>
         <div class="row about-pa">
@@ -96,16 +96,16 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-8 m-sm-auto col-md-5 text-center">
                         <div class="about-img ai-one">
-                            <img src="{{ asset('images/about1.png') }}" alt="about-img" class="img-fluid">
+                            <img src="{{ asset('images/capoo.png') }}" alt="about-img" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-lg-1 col-md-1"></div>
                     <div class="col-lg-7 col-md-6">
                         <div class="about-txt">
-                            <span class="separet-span">About Us</span>
-                            <h3>Abraham Simpson Coin</h3>
-                            <p>Following the simpson hype, we bring you Abraham's version. We have a target to make this project the most hype in bsc!</p>
-                            <p class="separate-p tab-hider">Strong holders will be needed in this project!</p>
+                            <span class="separet-span" style="color:white">About Us</span>
+                            <h3>Capoo Coin</h3>
+                            <p style="color:white">Bugcat Capoo (貓貓蟲咖波 Māo māo chóng kā bō), sometimes abbreviated to Capoo, is a cartoon character resembling a chubby blue cat with six legs. He is the namesake and main subject of a webcomic strip on Facebook and Instagram, cartoon clips on YouTube, and stickers on LINE and other social media. He was created by the Taiwanese artist Yara (亞拉 Yala) in 2014.</p>
+                            <p class="separate-p tab-hider" style="color:white">Capoo is described as "a little monster like a cat and like a bug, both violent and cute, who loves to eat meat".[1] The comic depicts him as a cute house pet with an endless hunger for meat and a disdain for vegetables, living together with his owner Lala and the seemingly immortal Dogdog—a large dog possessing uncanny skills in every field—in Lala's house. Much of the comic revolves around everyday situations which explode into absurdity, and often end with Capoo either eating whatever frustrates him, or being comically punished by Lala for his antics.</p>
                             <a href="#">Read More</a>
                         </div>
                     </div>
@@ -115,22 +115,22 @@
                 <div class="row">
                     <div class="col-lg-7 col-md-6">
                         <div class="about-txt sm-reduce-pa">
-                            <span class="separet-span">Tokenomics</span>
+                            <span class="separet-span" style="color:white">Tokenomics</span>
                             <div class="p-bars">
                                 <div class="col-lg-12 p-bar">
-                                    <span>Pancakeswap LP</span>
+                                    <span style="color:white">Pancakeswap LP</span>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 p-bar">
-                                    <span>R&D</span>
+                                    <span style="color:white">R&D</span>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 p-bar">
-                                    <span>Marketing</span>
+                                    <span style="color:white">Marketing</span>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
@@ -141,45 +141,27 @@
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="75">
                                 </div>
-                                <h5>2</h5>
-                                <span>2 BNB Initial LP</span>
+                                <h5 style="color:white">2</h5>
+                                <span style="color:white">2 BNB Initial LP</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
                                 <div class="chart" data-percent="65">
                                 </div>
-                                <h5>10%</h5>
-                                <span>Tax</span>
+                                <h5 style="color:white">0%</h5>
+                                <span style="color:white">Tax</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="55">
                                 </div>
-                                <h5>1%</h5>
-                                <span>Max Tx & Wallet</span>
+                                <h5 style="color:white">2%</h5>
+                                <span style="color:white">Max Tx & Wallet</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-1 col-md-1"></div>
                     <div class="col-lg-4 text-center mob-hide sm-hide col-md-5">
                         <div class="about-img ai-two">
-                            <img src="{{ asset('images/about2.png') }}" alt="about-img" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-10 m-auto about-item col-md-12">
-                <div class="row">
-                    <div class="col-lg-4 col-sm-8 m-sm-auto text-center col-md-5">
-                        <div class="about-img ai-three">
-                            <img src="{{ asset('images/about3.png') }}" alt="about-img" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-1 col-md-1"></div>
-                    <div class="col-lg-7 col-md-6">
-                        <div class="about-txt">
-                            <span class="separet-span">NFTs</span>
-                            <h3>About Abraham Simpson Coin NFTs</h3>
-                            <p>Upcoming NFTs will be ready soon! You can mint directly on our website once it's released!</p>
-                            <a href="#">Coming Soon</a>
+                            <img src="{{ asset('images/capoo.png') }}" alt="about-img" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -200,7 +182,7 @@
                             <h3>Join Our Official Telegram Group</h3>
                         </div>
                         <div class="col-lg-3 col-md-5 subscripe-btn">
-                            <a href="https://t.me/AbrahamSimpsonCoin" >JOIN US</a>
+                            <a href="https://t.me/CapooCoinBsc" >JOIN US</a>
                         </div>
                     </div>
                 </div>

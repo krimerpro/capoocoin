@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="ABRAHAM SIMPSON COIN | BSC">
-<meta name="keywords" content="abraham, simpson, coin, abrahamsimpsoncoin, smartchain, blockchain, cryptocurrency, bsc">
-<meta name="author" content="ABRAHAMSIMPSONCOIN">
+<meta name="description" content="CAPOO COIN | BSC">
+<meta name="keywords" content="capoo, coin, capoocoin, smartchain, blockchain, cryptocurrency, bsc">
+<meta name="author" content="CAPOOCOIN">
 
-<title>ABRAHAM SIMPSON COIN | BSC</title>
+<title>CAPOO COIN | BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 
 <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
