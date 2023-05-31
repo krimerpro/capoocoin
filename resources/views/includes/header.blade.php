@@ -28,7 +28,7 @@
                     <a class="nav-link" href="#tokenomics">Tokenomics</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link bor" href="https://poocoin.app/tokens/0x581bA816Cbbbb5f8b88ED2e57b9e6EC26EcEaB8f">CHART</a>
+                    <a class="nav-link bor" href="https://poocoin.app/tokens/0x">CHART</a>
                 </li>
             </ul>
         </div>
