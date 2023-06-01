@@ -153,7 +153,7 @@
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="55">
                                 </div>
-                                <h5 style="color:white">4%</h5>
+                                <h5 style="color:white">2%</h5>
                                 <span style="color:white">Max Tx & Wallet</span>
                             </div>
                         </div>
