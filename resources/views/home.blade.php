@@ -13,7 +13,7 @@
                 <h3 style="color:white">Capoo Coin</h3>
                 <p style="color:white">Invest in $CAPOO, the most hype and safu project on BSC.</p>
                 <a href="https://t.me/CapooCoinBsc" style="background:#91CA1C">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0x4Dc51180866fc2E456579191fD3Da2540f54d360" style="background:#91CA1C">BUY $CAPOO</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=" style="background:#91CA1C">BUY $CAPOO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
@@ -40,7 +40,7 @@
                         <div class="over-item txt-right unique-style3" style="background:#91CA1C">
                             <i class="fa fa-book over-i" aria-hidden="true"></i>
                             <div class="break"></div>
-                            <h3>5% TAXES</h3>
+                            <h3>4% TAXES</h3>
                             <div class="over-btn">
                                 <a href="#">Read More</a>
                             </div>
@@ -142,18 +142,18 @@
                                 <div class="chart" data-percent="75">
                                 </div>
                                 <h5 style="color:white">2</h5>
-                                <span style="color:white">2 BNB Initial LP</span>
+                                <span style="color:white">3 BNB Initial LP</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
                                 <div class="chart" data-percent="65">
                                 </div>
-                                <h5 style="color:white">5%</h5>
+                                <h5 style="color:white">4%</h5>
                                 <span style="color:white">Tax</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="55">
                                 </div>
-                                <h5 style="color:white">2%</h5>
+                                <h5 style="color:white">4%</h5>
                                 <span style="color:white">Max Tx & Wallet</span>
                             </div>
                         </div>
