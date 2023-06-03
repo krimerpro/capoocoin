@@ -141,7 +141,7 @@
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="75">
                                 </div>
-                                <h5 style="color:white">2</h5>
+                                <h5 style="color:white">3</h5>
                                 <span style="color:white">3 BNB Initial LP</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
