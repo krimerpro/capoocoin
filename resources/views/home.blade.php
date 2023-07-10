@@ -13,7 +13,7 @@
                 <h3 style="color:white">Capoo Coin</h3>
                 <p style="color:white">Invest in $CAPOO, the most hype and safu project on BSC.</p>
                 <a href="https://t.me/CapooCoinBsc" style="background:#91CA1C">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0x1e65a23ad4c55a840efe4e04d28b083eb8b0f263" style="background:#91CA1C">BUY $CAPOO</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0xc00d0dae20237cced311ed20b2bb6d21833de3eb" style="background:#91CA1C">BUY $CAPOO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
